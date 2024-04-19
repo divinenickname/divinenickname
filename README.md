@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Alt text of the image](https://github.com/divinenickname/utgen-kotlin-core/blob/main/logo.svg)
+<img width="100px" src="https://github.com/divinenickname/utgen-kotlin-core/blob/main/logo.svg"  alt="UTGen logo image. Red circle with letter U inside."/>
+
 <!--
 **divinenickname/divinenickname** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
